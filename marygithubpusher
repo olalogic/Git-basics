@@ -1,6 +1,6 @@
 #!/bin/bash
 
-read -p "ENTER MESSAGE: " message
+# read -p "ENTER MESSAGE: " message
 
 git add .
 
